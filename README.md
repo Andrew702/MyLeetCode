@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Andrew702/MyLeetCode/tree/master/0141-linked-list-cycle) |
+## Database
+|  |
+| ------- |
+| [1517-find-users-with-valid-e-mails](https://github.com/Andrew702/MyLeetCode/tree/master/1517-find-users-with-valid-e-mails) |
 <!---LeetCode Topics End-->
