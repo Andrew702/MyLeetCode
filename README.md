@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Andrew702/MyLeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Andrew702/MyLeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -50,8 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Andrew702/MyLeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Andrew702/MyLeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Andrew702/MyLeetCode/tree/master/0002-add-two-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Andrew702/MyLeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
 <!---LeetCode Topics End-->
