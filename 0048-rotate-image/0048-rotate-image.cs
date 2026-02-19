@@ -10,16 +10,17 @@ using System.Dynamic;
     {
         public void Rotate(int[][] matrix)
         {
-            int n = matrix.Length;
+            // 1-start from first cell
             // 3 swap
             // 4 go next -- till cell in last col
             // 5 go next row after 1st col
             // 6 go next till cell in 2nd last
+            int n = matrix.Length;
+
 
             int row;
             int col;
             int layer = 0;
-            // 1-start from first cell
             for (row = 0; row < n - 1; row++)
             {
                 for (col = row; col < n - row - 1; col++)
