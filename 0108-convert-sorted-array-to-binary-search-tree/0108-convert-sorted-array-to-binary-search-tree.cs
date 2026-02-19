@@ -14,7 +14,6 @@
 public class Solution {
     public TreeNode SortedArrayToBST(int[] nums) {
 
-        //loop on array
         // get mid put at first index
         // get left, right
         // get left mid put at next index
