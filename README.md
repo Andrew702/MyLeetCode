@@ -19,4 +19,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1517-find-users-with-valid-e-mails](https://github.com/Andrew702/MyLeetCode/tree/master/1517-find-users-with-valid-e-mails) |
+## Array
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Andrew702/MyLeetCode/tree/master/0048-rotate-image) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Andrew702/MyLeetCode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Andrew702/MyLeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
