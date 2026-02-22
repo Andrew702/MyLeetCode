@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Andrew702/MyLeetCode/tree/master/0141-linked-list-cycle) |
+| [0696-count-binary-substrings](https://github.com/Andrew702/MyLeetCode/tree/master/0696-count-binary-substrings) |
 ## Database
 |  |
 | ------- |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Andrew702/MyLeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
+## String
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/Andrew702/MyLeetCode/tree/master/0696-count-binary-substrings) |
 <!---LeetCode Topics End-->
