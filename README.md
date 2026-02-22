@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Andrew702/MyLeetCode/tree/master/0141-linked-list-cycle) |
+| [0383-ransom-note](https://github.com/Andrew702/MyLeetCode/tree/master/0383-ransom-note) |
 ## Linked List
 |  |
 | ------- |
@@ -64,5 +65,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Andrew702/MyLeetCode/tree/master/0383-ransom-note) |
 | [0696-count-binary-substrings](https://github.com/Andrew702/MyLeetCode/tree/master/0696-count-binary-substrings) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Andrew702/MyLeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
