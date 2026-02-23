@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Andrew702/MyLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Andrew702/MyLeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Andrew702/MyLeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Search Tree
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Andrew702/MyLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Andrew702/MyLeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Andrew702/MyLeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Recursion
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Andrew702/MyLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Andrew702/MyLeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## String
 |  |
@@ -78,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Andrew702/MyLeetCode/tree/master/0020-valid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Andrew702/MyLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
