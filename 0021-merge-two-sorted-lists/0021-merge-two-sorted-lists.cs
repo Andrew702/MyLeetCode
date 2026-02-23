@@ -23,14 +23,13 @@ public class Solution {
             {
                 Templist3.next = new ListNode(list1.val);
                 list1 = list1.next;
-                Templist3 = Templist3.next;
             }
             else if(list2.val <= list1.val)
             {
                 Templist3.next = new ListNode(list2.val);
                 list2 = list2.next;
-                Templist3 = Templist3.next;
             }
+            Templist3 = Templist3.next;
         }
 
         while(list1 != null)
