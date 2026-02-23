@@ -38,7 +38,6 @@
                  Mylist.Add(Current.val);
 
              // when im in X floor i append the beneath element making count X+1 
-     
                  if (Current.right != null)
                  {
                     if(Currentfloor == Mylist.Count)
