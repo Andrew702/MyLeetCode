@@ -56,6 +56,6 @@ public class Solution {
 
             return min;
         }
-        return 0;
+        return -1;
     } 
 }
