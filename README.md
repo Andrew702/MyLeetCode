@@ -47,17 +47,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Andrew702/MyLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Andrew702/MyLeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Andrew702/MyLeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Andrew702/MyLeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Andrew702/MyLeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Andrew702/MyLeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Andrew702/MyLeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Andrew702/MyLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Andrew702/MyLeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Andrew702/MyLeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Andrew702/MyLeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Andrew702/MyLeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Recursion
 |  |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Andrew702/MyLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Andrew702/MyLeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Andrew702/MyLeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Andrew702/MyLeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## String
 |  |
@@ -89,4 +93,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Andrew702/MyLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Andrew702/MyLeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Andrew702/MyLeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
