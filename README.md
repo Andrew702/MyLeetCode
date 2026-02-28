@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Andrew702/MyLeetCode/tree/master/0048-rotate-image) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Andrew702/MyLeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/Andrew702/MyLeetCode/tree/master/0200-number-of-islands) |
 ## Math
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Andrew702/MyLeetCode/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/Andrew702/MyLeetCode/tree/master/0200-number-of-islands) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Andrew702/MyLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Andrew702/MyLeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Andrew702/MyLeetCode/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Andrew702/MyLeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Andrew702/MyLeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## String
@@ -93,5 +96,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Andrew702/MyLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Andrew702/MyLeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Andrew702/MyLeetCode/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Andrew702/MyLeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Andrew702/MyLeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
