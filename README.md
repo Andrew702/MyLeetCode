@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Andrew702/MyLeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Andrew702/MyLeetCode/tree/master/0141-linked-list-cycle) |
 | [0696-count-binary-substrings](https://github.com/Andrew702/MyLeetCode/tree/master/0696-count-binary-substrings) |
 ## Database
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Andrew702/MyLeetCode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Andrew702/MyLeetCode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/Andrew702/MyLeetCode/tree/master/0383-ransom-note) |
 | [0696-count-binary-substrings](https://github.com/Andrew702/MyLeetCode/tree/master/0696-count-binary-substrings) |
 ## Counting
